@@ -1,0 +1,24 @@
+<svg height="334" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="334" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">└─┬ change-case@3.0.1 </tspan>
+<tspan x="10" y="42">  ├── camel-case@3.0.0 </tspan>
+<tspan x="10" y="58">  ├── constant-case@2.0.0 </tspan>
+<tspan x="10" y="74">  ├── dot-case@2.1.1 </tspan>
+<tspan x="10" y="90">  ├── header-case@1.0.1 </tspan>
+<tspan x="10" y="106">  ├── is-lower-case@1.1.3 </tspan>
+<tspan x="10" y="122">  ├── is-upper-case@1.1.2 </tspan>
+<tspan x="10" y="138">  ├── lower-case@1.1.4 </tspan>
+<tspan x="10" y="154">  ├── lower-case-first@1.0.2 </tspan>
+<tspan x="10" y="170">  ├── no-case@2.3.1 </tspan>
+<tspan x="10" y="186">  ├── param-case@2.1.1 </tspan>
+<tspan x="10" y="202">  ├── pascal-case@2.0.1 </tspan>
+<tspan x="10" y="218">  ├── path-case@2.1.1 </tspan>
+<tspan x="10" y="234">  ├── sentence-case@2.1.1 </tspan>
+<tspan x="10" y="250">  ├── snake-case@2.1.0 </tspan>
+<tspan x="10" y="266">  ├── swap-case@1.1.2 </tspan>
+<tspan x="10" y="282">  ├── title-case@2.1.1 </tspan>
+<tspan x="10" y="298">  ├── upper-case@1.1.3 </tspan>
+<tspan x="10" y="314">  └── upper-case-first@1.1.2</tspan>
+</text>
+</svg>
