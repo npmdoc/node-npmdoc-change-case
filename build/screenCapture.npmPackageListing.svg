@@ -1,11 +1,11 @@
 <svg height="126" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="126" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-03 16:49:53 +0000    22061 byte  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-03 16:49:53 +0000     1103 byte  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-03 16:49:53 +0000    14964 byte  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-03 16:49:53 +0000     1550 byte  change-case.d.ts</tspan>
-<tspan x="10" y="90">  4.  2017-04-03 16:49:53 +0000     1087 byte  change-case.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-03 16:49:53 +0000     3357 byte  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-16 09:45:35 +0000    22061 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-16 09:45:35 +0000     1103 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-16 09:45:35 +0000    14964 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-16 09:45:35 +0000     1550 bytes  change-case.d.ts</tspan>
+<tspan x="10" y="90">  4.  2017-04-16 09:45:35 +0000     1087 bytes  change-case.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-16 09:45:35 +0000     3357 bytes  package.json</tspan>
 </text>
 </svg>
